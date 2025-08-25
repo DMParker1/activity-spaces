@@ -81,14 +81,20 @@ This repository will soon include:
 
 ---
 
-## Related Projects
+---
 
-- [tMDA Program](https://github.com/DMParker1/tmda-program) — Targeted Mass Drug Administration work, including mapping farm huts.
-- [Spatial Epidemiology Hub](https://github.com/DMParker1/spatial-epidemiology-hub) — Umbrella repository linking related projects.
-- [SDEtool](https://github.com/parker-group/SDEtool) — Standard Deviational Ellipse generation in R.  
-- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — EO and remote sensing workflows for health research.  
-- [HumMovPatt](https://github.com/SaiTheinThanTun/HumMovPatt) — Code and analysis for human movement & exposure buffer size selection (DOI: [10.12688/wellcomeopenres.16784.2](https://doi.org/10.12688/wellcomeopenres.16784.2)).
-- **Raster-Buffer Extractor** — Scripts for extracting time-series environmental data from raster stacks within user-defined buffers around GPS coordinates; developed for an Aedes exposure study but applicable to EO data in general ([helper functions](https://github.com/CatalinaMedina/aedes-serology/tree/main/helper-functions), DOI: [10.1016/j.actatropica.2023.106829](https://doi.org/10.1016/j.actatropica.2023.106829)).  
+## 🔗 Related Repositories
+
+These repositories connect different parts of my spatial epidemiology research:
+
+- [spatial-epidemiology-hub](https://github.com/DMParker1/spatial-epidemiology-hub) — Umbrella repository tying together my career arc.  
+- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — How Earth Observation methods became central to my work, with curated papers and case studies.  
+- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Research on multi-place exposure (farm huts, GPS, mobile phone data) and its health relevance.  
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria post placement & community engagement.  
+- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials & modeling.  
+- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis & treatment.  
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
+
 
 ---
 
