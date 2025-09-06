@@ -77,7 +77,6 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 
 This repository will soon include:
 - **Code examples** for incorporating multiple activity spaces into spatial epidemiology analyses
-- **Maps and photos** illustrating fieldwork examples (farm huts, GPS tracks, etc.)
 
 ---
 
