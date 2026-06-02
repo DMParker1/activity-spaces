@@ -75,7 +75,7 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 
 ## Planned Additions
 
-This repository will soon include:
+This repository will soon-ish include:
 - **Code examples** for incorporating multiple activity spaces into spatial epidemiology analyses
 
 ---
