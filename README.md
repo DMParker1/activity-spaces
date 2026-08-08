@@ -85,8 +85,21 @@ More recently, we applied the activity-space concept to tuberculosis transmissio
 
 The resulting geographic patterns differed from those obtained using residential locations alone. For several genomic outbreak groups, incorporating activity spaces helped identify localized areas that may have been important for transmission. This provides another example of why the locations recorded in conventional health datasets may not adequately represent the geography of infectious-disease exposure.
 
-- Baker CR, Barilar I, de Araujo LS, Parker DM, *et al.* (2026). [**Using genomic epidemiology and geographic activity spaces to investigate tuberculosis outbreaks in Botswana**](https://link.springer.com/article/10.1186/s12942-026-00467-5). *International Journal of Health Geographics* 25:30.
+<p align="center">
+  <a href="https://link.springer.com/article/10.1186/s12942-026-00467-5/figures/3">
+    <img src="./media/botswana-tb-activity-spaces-fig3.webp"
+         alt="Comparison of tuberculosis spatial effects using full activity spaces versus residential locations only in Gaborone, Botswana"
+         width="850">
+  </a>
+</p>
 
+<p align="center">
+  <sub>
+    <b>Figure.</b> Estimated spatial effects using full activity spaces versus residential locations alone in Gaborone, Botswana. From Baker et al. (2026), <i>International Journal of Health Geographics</i>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. No changes made.
+  </sub>
+</p>
+
+- Baker CR, Barilar I, de Araujo LS, Parker DM, *et al.* (2026). [**Using genomic epidemiology and geographic activity spaces to investigate tuberculosis outbreaks in Botswana**](https://link.springer.com/article/10.1186/s12942-026-00467-5). *International Journal of Health Geographics* 25:30.
 
 ---
 
