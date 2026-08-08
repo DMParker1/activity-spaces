@@ -93,11 +93,9 @@ The resulting geographic patterns differed from those obtained using residential
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    <b>Figure.</b> Estimated spatial effects using full activity spaces versus residential locations alone in Gaborone, Botswana. From Baker et al. (2026), <i>International Journal of Health Geographics</i>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. No changes made.
-  </sub>
-</p>
+<sub>
+<b>Figure.</b> Estimated spatial effects using full activity spaces versus residential locations alone in Gaborone, Botswana. Panels labeled C, D, E, and G correspond to different <i>Mycobacterium tuberculosis</i> genotypes identified in the study. From Baker et al. (2026), <i>International Journal of Health Geographics</i>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. No changes made.
+</sub>
 
 - Baker CR, Barilar I, de Araujo LS, Parker DM, *et al.* (2026). [**Using genomic epidemiology and geographic activity spaces to investigate tuberculosis outbreaks in Botswana**](https://link.springer.com/article/10.1186/s12942-026-00467-5). *International Journal of Health Geographics* 25:30.
 
