@@ -79,6 +79,15 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 **Figure 5.** *Human mobility patterns in relation to mosquito biting times (from human landing catches) in Gambella Region, Ethiopia. Human mobility derived from mobile phone handover data, indicating plenty of movement during times when mosquito vectors are active.*
 
 
+### 5. **Activity spaces and tuberculosis transmission**
+
+More recently, we applied the activity-space concept to tuberculosis transmission in Botswana by combining geographic information on places people routinely occupied with whole-genome sequencing of *Mycobacterium tuberculosis*. Rather than representing individuals only by their residential locations, the analysis incorporated workplaces, schools, markets, places of worship, social venues, and other locations frequented during the potential infectious period.
+
+The resulting geographic patterns differed from those obtained using residential locations alone. For several genomic outbreak groups, incorporating activity spaces helped identify localized areas that may have been important for transmission. This provides another example of why the locations recorded in conventional health datasets may not adequately represent the geography of infectious-disease exposure.
+
+- Baker CR, Barilar I, de Araujo LS, Parker DM, *et al.* (2026). [**Using genomic epidemiology and geographic activity spaces to investigate tuberculosis outbreaks in Botswana**](https://link.springer.com/article/10.1186/s12942-026-00467-5). *International Journal of Health Geographics* 25:30.
+
+
 ---
 
 ## Planned Additions
