@@ -1,6 +1,14 @@
 # Activity Spaces
 
-This repository hosts code, data workflows, and documentation for research on **activity spaces** — the multiple locations where people spend time and how these spaces influence health outcomes, especially for infectious diseases.  
+**Are diseases acquired in your bed, at night? In your ZIP code or neighborhood? At the coordinates of your house?**
+
+Much of spatial epidemiology begins with some version of that assumption. We map people to their homes, aggregate cases by neighborhood or administrative area, or attach environmental exposures to residential locations. Often this is entirely reasonable. But it quietly makes a strong assumption: **that where someone lives is a useful proxy for where the processes affecting their health actually occur.**
+
+For infectious diseases, that assumption can be especially problematic. People leave home. They work, farm, attend school, visit markets and places of worship, cross borders, sleep in other locations, and move through environments where exposure may be very different from that around their residence. Mosquitoes, pathogens, pollution, and other hazards do not restrict themselves to the places where our datasets happen to locate people.
+
+This repository is about that mismatch: **the difference between where we locate people in our data and the places they actually occupy.**
+
+## From Place to Activity Space 
 
 I began thinking about activity spaces when I was in graduate school learning GIS and spatial analytic approaches, and how to *think spatially* under the mentorship of [Stephen Matthews](https://www.geog.psu.edu/directory/stephen-matthews). In particular, his work on *spatial polygamy* shaped how I conceptualize people's relationship to place:
 
